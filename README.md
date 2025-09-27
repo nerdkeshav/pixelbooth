@@ -1,6 +1,6 @@
 # PixelBooth
 
-A React-based photo booth application that allows users to take photos, customize them, and create unique digital experiences.
+A free, open-source DIY photo booth solution created by Keshav Pandey. This React-based application aims to make photo booth experiences accessible to everyone without any costs or subscriptions.
 
 ## Features
 
@@ -8,6 +8,7 @@ A React-based photo booth application that allows users to take photos, customiz
 - 🎨 Photo customization and editing
 - 📱 Responsive design
 - 🚀 Fast performance with React 18
+- 💰 Completely free and open-source
 
 ## Technologies Used
 
@@ -28,7 +29,7 @@ A React-based photo booth application that allows users to take photos, customiz
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pixelbooth.git
+git clone https://github.com/nerdkeshav/pixelbooth.git
 cd pixelbooth
 ```
 
@@ -90,10 +91,6 @@ pixelbooth/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Deployment
 
 This project can be easily deployed to platforms like:
@@ -103,3 +100,8 @@ This project can be easily deployed to platforms like:
 - Heroku
 
 For Vercel deployment, simply connect your GitHub repository to Vercel and it will automatically deploy.
+
+---
+
+© 2025 Keshav Pandey. All rights reserved.  
+This code is private property and may not be copied, used, or distributed without explicit permission.
